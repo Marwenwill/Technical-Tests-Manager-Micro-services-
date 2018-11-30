@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Technical-Tests-Api-gateway/Technical-Tests-Api-gateway.iml" filepath="$PROJECT_DIR$/../Technical-Tests-Api-gateway/Technical-Tests-Api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Technical-Tests-Eureka-Server/Technical-Tests-Eureka-Server.iml" filepath="$PROJECT_DIR$/../Technical-Tests-Eureka-Server/Technical-Tests-Eureka-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Technical-Tests-Hystrix-Dashboard/Technical-Tests-Hystrix-Dashboard.iml" filepath="$PROJECT_DIR$/../Technical-Tests-Hystrix-Dashboard/Technical-Tests-Hystrix-Dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Technical-Tests-commons/Technical-Tests-commons.iml" filepath="$PROJECT_DIR$/../Technical-Tests-commons/Technical-Tests-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Technical-Tests-config-server/Technical-Tests-config-server.iml" filepath="$PROJECT_DIR$/../Technical-Tests-config-server/Technical-Tests-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TechnicalTest.iml" filepath="$PROJECT_DIR$/TechnicalTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TechnicalTestService/TechnicalTestService.iml" filepath="$PROJECT_DIR$/../TechnicalTestService/TechnicalTestService.iml" />
+    </modules>
+  </component>
+</project>

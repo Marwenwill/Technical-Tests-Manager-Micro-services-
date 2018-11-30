@@ -1,0 +1,13 @@
+server:
+    port: 8222
+zuul:
+  routes:
+    order:
+      path: /candidate/**
+      serviceId: candidate-service
+    product:
+      path: /manager/**
+      serviceId: manager-service
+    customer:
+      path: /TechnicalTest/**
+      serviceId: TechnicalTest-service

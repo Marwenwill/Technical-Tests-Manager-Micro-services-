@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Technical-Tests-Api-gateway" />
+        <module name="Technical-Tests-commons" />
+        <module name="Technical-Tests-config-server" />
+        <module name="Technical-Tests-Eureka-Server" />
+        <module name="Technical-Tests-Hystrix-Dashboard" />
+        <module name="TechnicalTestService" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Technical-Tests-Api-gateway" target="1.8" />
+      <module name="Technical-Tests-commons" target="1.8" />
+      <module name="Technical-Tests-config-server" target="1.8" />
+      <module name="Technical-Tests-Eureka-Server" target="1.8" />
+      <module name="Technical-Tests-Hystrix-Dashboard" target="1.8" />
+      <module name="TechnicalTest" target="1.5" />
+      <module name="TechnicalTestService" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Technical-Tests-Api-gateway" options="-parameters" />
+      <module name="Technical-Tests-Eureka-Server" options="-parameters" />
+      <module name="Technical-Tests-Hystrix-Dashboard" options="-parameters" />
+      <module name="Technical-Tests-commons" options="-parameters" />
+      <module name="Technical-Tests-config-server" options="-parameters" />
+      <module name="TechnicalTestService" options="-parameters" />
+    </option>
+  </component>
+</project>
