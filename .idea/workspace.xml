@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b509d570-c0a6-4c1a-9bb5-6effe359e8a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/candidate-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/candidate-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/candidate-service/src/main/java/com/candidate/microcandidate/MicrocandidateApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/candidate-service/src/main/java/com/candidate/microcandidate/dao/CandidateDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/candidate-service/src/main/java/com/candidate/microcandidate/model/Candidate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/candidate-service/src/main/java/com/candidate/microcandidate/web/controller/CandidateController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/candidate-service/src/main/java/configuration/SwaggerConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/candidate-service/src/main/resources/data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/candidate-service/src/test/java/com/candidate/microcandidate/MicrocandidateApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/candidate-service/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/candidate-service/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manager-service/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/manager-service/Dockerfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +33,11 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manager-service/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -101,8 +99,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/candidate-service/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="221">
+              <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -125,6 +123,8 @@
         <option value="$PROJECT_DIR$/candidate-service/src/main/java/com/ensi/ilsi/service/QuestionService.java" />
         <option value="$PROJECT_DIR$/candidate-service/src/main/java/com/ensi/ilsi/web/QuestionResource.java" />
         <option value="$PROJECT_DIR$/candidate-service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/manager-service/Dockerfile" />
+        <option value="$PROJECT_DIR$/candidate-service/Dockerfile" />
       </list>
     </option>
   </component>
@@ -148,6 +148,69 @@
               <item name="Technical-Tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="Technical-Tests" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Technical-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Technical-Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="candidate-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Technical-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Technical-Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Technical-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Technical-Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-service" type="462c0819:PsiDirectoryNode" />
+              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Technical-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Technical-Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-service" type="462c0819:PsiDirectoryNode" />
+              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Technical-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Technical-Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Technical-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Technical-Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Technical-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Technical-Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Technical-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Technical-Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Technical-Tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Technical-Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="manager-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ensi" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -157,7 +220,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543613681378" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543615323299" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/TechnicalTesting/TechnicalTesting" />
   </component>
   <component name="RunDashboard">
@@ -182,12 +245,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543611010621</updated>
-      <workItem from="1543611011934" duration="2224000" />
+      <workItem from="1543611011934" duration="2872000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2224000" />
+    <option name="totallyTimeSpent" value="2872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -317,9 +380,6 @@
     <entry file="file://$PROJECT_DIR$/candidate-service/src/main/java/com/ensi/ilsi/config/LoggingConfiguration.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/manager-service/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/candidate-service/src/main/java/com/ensi/ilsi/domain/Candidate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -364,10 +424,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/manager-service/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/candidate-service/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="221">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
         </state>
       </provider>
     </entry>
